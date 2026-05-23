@@ -23,8 +23,8 @@ I'm a 3rd-year Computer Science student at the University of Málaga, originally
 | Project | Role & Stack | What it is |
 | --- | --- | --- |
 | **Dedalus Datathon – Conversational AI Agent** | Team dev • Python | Clinical data analysis tool for patient cohorts, with synthetic data generation and a functional GUI. Built under real healthcare constraints at the Dedalus Datathon Andalusia. |
-| **Malackathon – Oracle Web App** | Team dev • Oracle DB · Cloud · Frontend | Web application integrating an Oracle Database via cloud credentials for secure backend data management and frontend interaction. Sponsored by Oracle. |
-| **NASA SpaceApps – Exoplanet Detector** | Team dev • Python · AI | AI-driven solution for the automatic detection of exoplanets. Presented at the NASA SpaceApps Challenge 2025. |
+| **Malackathon – Oracle Web App** | Team dev • Frontend | Web application integrating an Oracle Database via cloud credentials for secure backend data management and frontend interaction. Sponsored by Oracle. |
+
 
 ### Experience (TL;DR)
 
