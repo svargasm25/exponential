@@ -1,6 +1,5 @@
 **Best with:** Python · Java · SQL · Git  
-**Familiar with:** C · C++ · Scala · HTML · Wireshark · Quantum computing (Qiskit) · Docker
-
+**Familiar with:** C · C++ · Scala · HTML 
 > 💡 **TL;DR** – CS student at University of Málaga with a thing for building, organizing, and connecting people. Co-founded Espet-Up, a youth entrepreneurship association. Selected for Sputnik VI. Competed in 6+ hackathons across AI, healthcare, cybersecurity, and space. Still very much learning — but I show up and I ship.
 
 ---
